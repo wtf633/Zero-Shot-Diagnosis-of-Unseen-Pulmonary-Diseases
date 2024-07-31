@@ -19,5 +19,5 @@ on lesion location, shape, and report template styles from numerous lung clinica
 University, Dhaka University, and physicians from Pakistan. (https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 7) COVIDx includes 84,818 chest X-rays from 45,342 subjects, curated by the Vision and Image Processing Research Group at the University of Waterloo, Canada, evaluated using COVIDx9B test data at 1024×1024 pixels. (https://github.com/lindawangg/COVID-Net/tree/master)
 
-#### Here, we would like to express our special thanks to the two campuses of Hefei Cancer Hospital, Chinese Academy of Sciences for providing private datasets, and to Xplainer[1] for providing the code base.
-[1] C. Pellegrini, M. Keicher, E. O¨ zsoy, P. Jiraskova, R. Braren, and N.Navab, “Xplainer: From x-ray observations to explainable zero-shot diagnosis,” in International Conference on Medical Image Computing and Computer-Assisted Intervention, 2023: Springer, pp. 420-429. (https://github.com/ChantalMP/Xplainer/tree/master)
+#### Here, we would like to express our special thanks to the two campuses of Hefei Cancer Hospital, Chinese Academy of Sciences for providing private datasets, and to [Xplainer](https://github.com/ChantalMP/Xplainer/tree/master)[1] for providing the code base.
+[1] C. Pellegrini, M. Keicher, E. O¨ zsoy, P. Jiraskova, R. Braren, and N.Navab, “Xplainer: From x-ray observations to explainable zero-shot diagnosis,” in International Conference on Medical Image Computing and Computer-Assisted Intervention, 2023: Springer, pp. 420-429. 
