@@ -11,7 +11,7 @@ on lesion location, shape, and report template styles from numerous lung clinica
 1) MCXD includes 58 tuberculosis and 80 normal chest X-rays in resolutions of 4020×4892 or 4892×4020 pixels, created by the U.S. National Library of Medicine. (https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
 2) SCXD has 336 tuberculosis and 326 normal chest X-rays at 3K×3K pixels, developed by the Shenzhen’s Third People’s Hospital, Guangdong Medical College, China. (https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets)
 #### Nodules
-3) JSRT contains 154 nodule and 93 non-nodule chest X-rays at 2048×2048 pixels, created by the Japanese Radiological Society and American medical institutions.
+3) JSRT contains 154 nodule and 93 non-nodule chest X-rays at 2048×2048 pixels, created by the Japanese Radiological Society and American medical institutions. (http://db.jsrt.or.jp/eng.php) or (https://www.kaggle.com/datasets/raddar/nodules-in-chest-xrays-jsrt)
 4) HCXD is a private dataset from Hefei Cancer Hospital containing 113 lung nodule and 200 normal images collected between January 1, 2023, and February 1, 2024.
 #### COVID-19
 5) COVID-QED has 33,920 chest Xray images: 11,956 COVID-19, 11,263 non-COVID infections, and 10,701 normal cases. We used COVID-19 segmented data at 256×256 pixels for evaluation.
