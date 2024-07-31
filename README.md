@@ -5,3 +5,16 @@ on lesion location, shape, and report template styles from numerous lung clinica
 
 #### Conceptual Diagram of Zero-Shot Learning Application in Pulmonary X-Ray Diagnosis (e.g., COVID-19).
 <img src="https://github.com/wtf633/Zero-Shot-Diagnosis-of-Unseen-Pulmonary-Diseases/blob/main/Conceptual%20Diagram.jpg" alt="示例图片" width="600">
+
+### Description of experimental datasets
+#### Tuberculosis
+1) MCXD includes 58 tuberculosis and 80 normal chest X-rays in resolutions of 4020×4892 or 4892×4020 pixels, created by the U.S. National Library of Medicine.
+2) SCXD has 336 tuberculosis and 326 normal chest X-rays at 3K×3K pixels, developed by the Shenzhen’s Third People’s Hospital, Guangdong Medical College, China.
+#### Nodules
+4) JSRT contains 154 nodule and 93 non-nodule chest X-rays at 2048×2048 pixels, created by the Japanese Radiological Society and American medical institutions.
+5) HCXD is a private dataset from Hefei Cancer Hospital containing 113 lung nodule and 200 normal images collected between January 1, 2023, and February 1, 2024.
+#### COVID-19
+7) COVID-QED has 33,920 chest Xray images: 11,956 COVID-19, 11,263 non-COVID infections, and 10,701 normal cases. We used COVID-19 segmented data at 256×256 pixels for evaluation.
+8) COVID-19-CXD comprises 21,165 chest X-rays, including 3,616 COVID-19 positive, 6,012 lung opacity, 1,345 viral pneumonia, and 10,192 normal cases, at 299×299 pixels, developed by Qatar
+University, Dhaka University, and physicians from Pakistan.
+9) COVIDx includes 84,818 chest X-rays from 45,342 subjects, curated by the Vision and Image Processing Research Group at the University of Waterloo, Canada, evaluated using COVIDx9B test data at 1024×1024 pixels.
