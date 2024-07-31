@@ -18,3 +18,6 @@ on lesion location, shape, and report template styles from numerous lung clinica
 6) COVID-19-CXD comprises 21,165 chest X-rays, including 3,616 COVID-19 positive, 6,012 lung opacity, 1,345 viral pneumonia, and 10,192 normal cases, at 299×299 pixels, developed by Qatar
 University, Dhaka University, and physicians from Pakistan. (https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 7) COVIDx includes 84,818 chest X-rays from 45,342 subjects, curated by the Vision and Image Processing Research Group at the University of Waterloo, Canada, evaluated using COVIDx9B test data at 1024×1024 pixels. (https://github.com/lindawangg/COVID-Net/tree/master)
+
+##### Here, we would like to express our special thanks to the two campuses of Hefei Cancer Hospital, Chinese Academy of Sciences for providing private datasets, and to Xplainer[1] for providing the code base.
+[1] C. Pellegrini, M. Keicher, E. O¨ zsoy, P. Jiraskova, R. Braren, and N.Navab, “Xplainer: From x-ray observations to explainable zero-shot diagnosis,” in International Conference on Medical Image Computing and Computer-Assisted Intervention, 2023: Springer, pp. 420-429.
