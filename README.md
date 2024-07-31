@@ -7,4 +7,4 @@ on lesion location, shape, and report template styles from numerous lung clinica
 <img src="https://github.com/wtf633/Zero-Shot-Diagnosis-of-Unseen-Pulmonary-Diseases/blob/main/Conceptual%20Diagram.jpg" alt="示例图片" width="600">
 
 #### Conceptual Diagram of Zero-Shot Learning Application in Pulmonary X-Ray Diagnosis (e.g., COVID-19).
-<img src="https://github.com/wtf633/Zero-Shot-Diagnosis-of-Unseen-Pulmonary-Diseases/blob/main/Flowchart%20of%20the%20Proposed%20Zero-Shot%20Method.jpg" alt="示例图片" width="600">
+<img src="https://github.com/wtf633/Zero-Shot-Diagnosis-of-Unseen-Pulmonary-Diseases/blob/main/Conceptual%20Diagram.jpg" alt="示例图片" width="600">
