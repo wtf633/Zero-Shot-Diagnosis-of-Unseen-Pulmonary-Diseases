@@ -1,11 +1,11 @@
-# Zero-Shot Diagnosis of Unseen Pulmonary Diseases via Spatial Domain Adaptive Correction and Guidance by ChatGPT-4o
+## Zero-Shot Diagnosis of Unseen Pulmonary Diseases via Spatial Domain Adaptive Correction and Guidance by ChatGPT-4o
 
 ![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Awesome-FC60A8?style=flat-square&logo=Awesome&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
 
-### 🧨 Congratulations! Our paper has been accepted by BIBM 2024 (Regular Paper Acceptance)!
+### 🧨 Our paper has been accepted by BIBM 2024 (Regular Paper Acceptance)!
 
 ## Proposed method 
 
@@ -13,7 +13,7 @@ In this work, we first balanced the brightness and contrast of the images based 
 contour features. For text data, we utilized ChatGPT-4o to extract feature descriptions of three unseen diseases, which were then refined by experienced radiologists. We extracted information
 on lesion location, shape, and report template styles from numerous lung clinical diagnostic reports to provide more detailed descriptions. Finally, we computed the contrast probability between the visual and textual modalities using cosine similarity. Furthermore, our method was evaluated on two tuberculosis datasets, two lung nodule datasets (one private), and three COVID-19 datasets.
 
-<img src="https://github.com/wtf633/Zero-Shot-Diagnosis-of-Unseen-Pulmonary-Diseases/blob/main/Flowchart of the Proposed Zero-Shot Method.jpg" alt="示例图片" width="600">
+<img src="https://github.com/wtf633/Zero-Shot-Diagnosis-of-Unseen-Pulmonary-Diseases/blob/main/Flowchart of the Proposed Zero-Shot Method.jpg" alt="示例图片" width="800">
 
 ## Description of experimental datasets
 #### Tuberculosis
