@@ -1,0 +1,1 @@
+This is the path where the model weights are stored
